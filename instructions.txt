@@ -1,0 +1,11 @@
+English:
+To use this prototype to check for your file, place all relevant files in a folder named 'files' in the same directory as 'prototype.py'. Then rename the file you would like to check into 'checktext.pdf' and then run the prototype using the following command:
+python prototype.py
+
+note: Relevant files are files that are refered to in the file to be checked.
+
+Bahasa Indonesia:
+Untuk menggunakan prototype ini untuk mengecek file, diharapkan menaruh semua file-file yang terkait pada folder 'files' pada directory yang sama dengan 'prototype.py'. Setelah itu rename file yang ingin anda cek menjadi 'checktext.pdf' dan menjalankan prototype dengan command berikut:
+python prototype.py
+
+note: File-file yang terkait adalah file yang anda gunakan sebagai referensi pada file yang ingin di cek.
