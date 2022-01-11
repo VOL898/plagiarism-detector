@@ -1,0 +1,3 @@
+Here are some sample files to test on. To test on your own files, delete all these pdf files and refer to 'instructions.txt'
+
+Berikut adalah beberapa contoh file untuk diuji. Untuk menguji pada file Anda sendiri, hapus semua file pdf ini dan lihat 'instructions.txt'
